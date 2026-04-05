@@ -1,0 +1,5 @@
+{
+  "name": "LifeScore AI",
+  "description": "An outcome-based tracking app that uses AI to analyze daily activities and assign scores based on productivity, discipline, and lifestyle quality.",
+  "requestFramePermissions": []
+}
